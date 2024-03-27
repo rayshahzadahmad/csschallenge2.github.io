@@ -1,0 +1,56 @@
+.wrapping{
+    text-align: center;
+    
+    
+    font-family: "Roboto", sans-serif;
+
+}
+h1 h2 h3 {
+    font-weight: 100;
+}
+.para{
+    font-weight: 300;
+}
+img{
+    filter: brightness(50%);
+}
+body{
+    font-size: 21px;
+}
+span{
+    font-size: 80px;
+
+}
+h2{
+    font-size: 60px;
+}
+h3{
+    font-size: 36px;
+}
+#pp{
+    font-size: 16px;
+}
+span{
+    display: block;
+}
+a{
+    color: #99D930;
+    
+}
+a:hover{
+    color: #131313;
+}
+header{
+    background-color: #D7D7D7;
+    width: 100%;
+}
+.s1{
+  
+    background-color: #FFEAEA;
+    padding: 30px;
+}
+.s2{
+    background-color: #EAF9FF;
+    padding: 30px;
+    
+}
